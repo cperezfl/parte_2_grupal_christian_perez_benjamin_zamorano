@@ -18,7 +18,7 @@ Este repositorio contiene el desarrollo e implementación de la **Parte II (Grup
 
 ---
 
-## 💻 Registro de Infraestructura (Hardware de Pruebas)
+## Registro de Infraestructura (Hardware de Pruebas)
 En cumplimiento con el protocolo de registro obligatorio de la cátedra, los benchmarks automatizados integrados en los scripts se ejecutaron bajo el siguiente entorno controlado:
 
 * **Sistema Operativo:** Windows 11 Home
